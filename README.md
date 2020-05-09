@@ -1,4 +1,4 @@
-# rocket-shio
+# rocket-ship
 
 ## Project setup
 ```
