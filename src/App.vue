@@ -403,8 +403,8 @@ body {
 
 .bullet {
   position: absolute;
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
 }
 
 .health {
@@ -427,6 +427,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  color: #ff9800;
 }
 
 .game-menu__start {
